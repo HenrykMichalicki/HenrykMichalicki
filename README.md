@@ -1,7 +1,7 @@
 ## Hey! Welcome to my profile! How is it going? 👋
 ![Commits](https://github-readme-stats.vercel.app/api?username=henrykmichalicki)
 
-#### My name is Ary de Sá. I'm from Brazil  🟩🟨🟦
+#### My name is Henryk Michalicki. I'm from Brazil  🟩🟨🟦
 
 - 🚀 I’m currently studding in Generation Brazil
 - 💻 Building cool stuffs with Eclipse
