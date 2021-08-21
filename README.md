@@ -1,5 +1,8 @@
 ## Hey! Welcome to my profile! How is it going? 👋
 ![Commits](https://github-readme-stats.vercel.app/api?username=henrykmichalicki)
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenrykMichalicki&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 
 #### My name is Henryk Michalicki. I'm from Brazil  🟩🟨🟦
 
