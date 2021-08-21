@@ -1,10 +1,3 @@
-## Hey! Welcome to my profile! How is it going? 👋
-
-<div>
-  <a href="https://github.com/HenrykMichalicki">
- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=HenrykMichalicki&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenrykMichalicki&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
 
 #### My name is Henryk Michalicki. I'm from Brazil  🟩🟨🟦
@@ -13,14 +6,22 @@
 - 💻 Building cool stuffs with Eclipse
 - ✨ Learning is continuous and there will always be a next level
 
+
+<div>
+  <a href="https://github.com/HenrykMichalicki">
+ <img height="160em" src="https://github-readme-stats.vercel.app/api?username=HenrykMichalicki&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenrykMichalicki&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+
 <div style="display: inline_block"><br>
-  <img align="center" alt="Henryk-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Henryk-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-plain.svg"/>
-  <img align="center" alt="Henryk-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg"/> 
-  <img align="center" alt="Henryk-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img align="center" alt="Henryk-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Henryk-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Henryk-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+ <img align="center" alt="Henryk-Java" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Henryk-Spring" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
+  <img align="center" alt="Henryk-MySQL" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Henryk-HTML" height="70" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+   <img align="center" alt="Henryk-CSS" height="70" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Henryk-Js" height="70" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Henryk-Ts" height="70" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 </div>
  
  ##
