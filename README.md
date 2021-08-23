@@ -8,9 +8,10 @@
 
 
 <div>
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=HenrykMichalicki&show_icons=true&theme=dracula"/> 
+ <a href="https://github.com/HenrykMichalicki">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=HenrykMichalicki&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenrykMichalicki&layout=compact&theme=dracula">
-</div> 
+</div>
 
 
 <div style="display: inline_block"><br>
